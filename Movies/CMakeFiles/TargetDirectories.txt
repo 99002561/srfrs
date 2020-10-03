@@ -1,0 +1,3 @@
+/home/user/Downloads/Set-codes-master/Movies/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/Set-codes-master/Movies/CMakeFiles/edit_cache.dir
+/home/user/Downloads/Set-codes-master/Movies/CMakeFiles/executeTests.dir
